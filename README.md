@@ -1,7 +1,5 @@
 # Cyclistic-Bike-Share-Case-Study
-Google Data Analytics Capstone Project - Cyclistic Bike-Share
-Benedine Okeke
-2025-04-17
+
 Case study: How does a bike-share navigate speedy success?
 Introduction to Cyclistic Bike-Share Analysis
 In this case study, I will assume the role of a junior data analyst at Cyclistic, a fictional bike-share company. Cyclistic, along with some key team members.I will work through the data analysis process - asking questions, preparing and processing data, analyzing insights, sharing findings, and recommending actions - to address key business questions and drive informed decision-making.
